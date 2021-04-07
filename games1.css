@@ -1,0 +1,40 @@
+/* CSS Document */
+
+#bg{
+	width:1850px;
+	height:973px;
+	background-image:url(news/pic1.png);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+.main{
+	position: absolute;
+	left: 597px;
+	top: 161px;
+	width: 800px;
+	height: 600px;
+}
+.font{
+	font-family:"海派腔调禅粗黑简2.0";
+	font-style:color="#fff";
+}
+#bo{
+	width:800px;
+	height:400px;
+	float:left;
+	display:inline;
+}
+#one{
+	width:800px;
+	height:200px;
+}
+.two{
+	width:400px;
+	display:inline;
+	float:left;
+}
+.three{
+	width:400px;
+	display:inline;
+	float:left;
+}

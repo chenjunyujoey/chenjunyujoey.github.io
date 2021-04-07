@@ -1,0 +1,110 @@
+/* CSS Document */
+.left{
+	width: 180px;
+	height: 388px;
+	position: fixed;
+	top: 300px;
+	left: 50px;
+	margin: auto;
+	border:#000;
+}
+.background{
+	background-image:url(xili.png);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	width:1880px;
+	height:2774px;
+}
+.top1{
+	width:180px;
+	height:156px;
+	background-image:url(top/12.png);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	
+}
+
+.top2{
+	width: 150px;
+	height: 58px;
+	background-image:url(top/top1.png);
+	background-size:100% 100%;
+	
+ }
+.top3{
+	width: 150px;
+	height: 58px;
+	background-image:url(top/top2.png);
+	background-size:100% 100%;
+	overflow:hidden;
+	
+	
+	
+}
+.top4{
+	width: 150px;
+	height: 58px;
+	background-image:url(top/top3.png);
+	background-size:100% 100%;
+	
+	
+}
+.top5{
+	width: 180px;
+	height: 58px;
+	background-image:url(top/top4.png);
+	background-size:100% 100%;
+	
+}
+
+.head{
+	width: 1200px;
+	height: 2751px;
+	position: absolute;
+	left: 374px;
+	top: 2px;
+	
+}
+#font{
+	width:1165px;
+	height:695px;
+}
+#font1{
+	background-image: url(thewitcher/font.png);
+	width: 1165px;
+	height: 680px;
+	background-size: 100% 100%;
+
+	
+}
+.content1{
+	width:1200px;
+	height:1800px;
+
+}
+#dibu{
+	bottom:600px;
+	width:1200px;
+	height:200px;
+}
+#dibu1{
+width:600px;
+height:150px;
+float:left;
+}
+
+#dibu2{
+width:600px;
+height:150px;
+float:left;
+}
+
+#juxing{
+	width: 1890px;
+	height: 252px;
+	position: absolute;
+	background-image: url(top/juxing1.png);
+	background-repeat: repeat;
+	left: -370px;
+	top: 2478px;
+}

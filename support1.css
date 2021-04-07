@@ -1,0 +1,16 @@
+/* CSS Document */
+
+#bg{
+background-image:url(news/fire.png);
+background-repeat:no-repeat;
+background-size:100% 100%;
+width:1880px;
+height:972px;
+}
+#table{
+	position: absolute;
+	width: 564px;
+	border: hidden;
+	left: 694px;
+	top: 257px;
+}

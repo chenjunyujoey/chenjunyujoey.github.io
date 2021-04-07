@@ -1,0 +1,179 @@
+/* CSS Document */
+
+#background{
+	background-image:url(pic/Witcher_1.gif);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-attachment:fixed;
+}
+.top{
+	width:1920px;
+	height:180px;
+	left:0px;
+	top:0px;
+	background-image:url(top/juxing1.png);
+	background-repeat:repeat;
+	position:fixed;
+}
+.top1{
+	width:430px;
+	height:180px;
+	background-image:url(top/logo.png);
+	background-size:100%;
+	background-repeat:no-repeat;
+}
+.top2{
+	width: 150px;
+	height: 58px;
+	background-image:url(top/top1.png);
+	background-size:100% 100%;
+	position: absolute;
+	left: 941px;
+	top: 80px;
+	overflow: hidden;
+ }
+.top3{
+	width: 150px;
+	height: 58px;
+	background-image:url(top/top2.png);
+	background-size:100% 100%;
+	position: absolute;
+	left: 1147px;
+	top: 80px;
+
+}
+.top4{
+	width: 150px;
+	height: 58px;
+	background-image:url(top/top3.png);
+	background-size:100% 100%;
+	position: absolute;
+	left: 1352px;
+	top: 80px;
+}
+
+.top5{
+	width: 180px;
+	height: 58px;
+	background-image:url(top/top4.png);
+	background-size:100% 100%;
+	position: absolute;
+	left: 1558px;
+	top: 80px;
+}
+
+
+
+
+
+#content0{
+	width:1920px;
+	height:828px;
+	top: 180px;
+}
+
+
+
+
+.content1{
+	width: 400px;
+	height: 225px;
+	background-image: url(pic/pic1.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+	left: 668px;
+	top: 200px;
+}
+
+.content2{
+	width: 400px;
+	height: 225px;
+	background-image: url(pic/gif1.gif);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+	left: 1074px;
+	top: 200px;
+}
+.content3{
+	width: 400px;
+	height: 225px;
+	background-image: url(pic/pic2.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+	left: 1482px;
+	top: 200px;
+	
+	
+}
+
+.content4{
+	width: 400px;
+	height: 225px;
+	background-color: #000;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+	background-image: url(pic/gif2.gif);
+	left: 668px;
+	top: 435px;
+	
+}
+
+.content5{
+	width: 400px;
+	height: 225px;
+	background-image: url(pic/pic3.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-color: #000;
+	position: absolute;
+	left: 1074px;
+	top: 435px;
+	
+}
+
+.content6{
+	width: 400px;
+	height: 225px;
+	background-image: url(pic/gif3.gif);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+	left: 1482px;
+	top: 435px;
+}
+.content7{
+	width: 400px;
+	height: 225px;
+	background-image: url(pic/pic4.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+	left: 668px;
+	top: 670px;
+
+}
+.content8{
+	width: 400px;
+	height: 225px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+	background-image: url(pic/gif4.gif);
+	left: 1074px;
+	top: 670px;
+}
+.content9{
+	width: 400px;
+	height: 225px;
+	background-image: url(pic/pic5.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+	left: 1482px;
+	top: 670px;
+	
+}

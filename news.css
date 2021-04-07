@@ -1,0 +1,24 @@
+/* CSS Document */
+
+#bg{
+background-image:url(news/bg.png);
+background-size:100% 100%;
+background-repeat:no-repeat;
+width:1895px;
+height:970px;
+}
+#main{
+	width: 800px;
+	height: 600px;
+	position: absolute;
+	left: 124px;
+	top: 185px;
+
+}
+#main1{
+	width: 800px;
+	height: 600px;
+	position: absolute;
+	left: 962px;
+	top: 185px;
+}

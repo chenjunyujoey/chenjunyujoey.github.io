@@ -1,0 +1,36 @@
+/* CSS Document */
+#face{
+	width:1850px;
+	height:950px;
+	background-image:url(pic/face.png);
+	background-repeat:no-repeat;
+	background
+	background-size:100% auto;
+}
+#font1{
+	position: absolute;
+	left: 800px;
+	top: 231px;
+
+
+	background-size:100% 100%；
+	background-repeat:no-repeat;
+	width: 400px;
+	height: 90px;
+	background-image: url(top/denglufont.png);
+}
+.font2{
+	alignment-adjust: middle;
+	color: #FFF;
+	position: absolute;
+	left: 753px;
+	top: 411px;
+}
+.font3{
+	height:80px;
+}
+#table{
+	width:500px;
+	 height:200px ;
+	 border:0;
+	}
